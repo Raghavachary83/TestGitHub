@@ -1,2 +1,3 @@
 # TestGitHub
-Test case git projecct
+
+Praticing git hub...
